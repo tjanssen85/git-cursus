@@ -1,3 +1,3 @@
 <?php
-echo('dit was de tweede');
+echo('we beginnen opnieuw');
 ?>
